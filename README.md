@@ -14,7 +14,7 @@ Github Reposistory: https://github.com/bollauma/FRT-project-
 
 Github project Link: https://bollauma.github.io/FRT-project-/
 
-Azure project Link:
+Azure project Link: https://polite-bay-093b36900.2.azurestaticapps.net
 
 Azure Skills used:
 
