@@ -8,7 +8,7 @@ The aim of the project is to provide more information about photography to the p
 it was used to improve skills in the passion of photography . It the project for Photography . 
 This project details the it helps to get skills improvement on taking photos. The main aim of this project is photography is also a passion of life.
 
-Project demo Links:
+Project demo Links: https://youtu.be/Exq_Tkd4t_I
 
 Github Reposistory: https://github.com/bollauma/FRT-project-
 
