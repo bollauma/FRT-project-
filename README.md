@@ -41,6 +41,7 @@ java script
 
 
 
+![f1](https://user-images.githubusercontent.com/118163578/208603811-443b0f1c-614e-4fea-adae-e26741c9bfe8.png)
 
 
 
@@ -51,6 +52,7 @@ java script
 ### About  -
 
 
+![f2](https://user-images.githubusercontent.com/118163578/208604000-78fd1d0e-ddf6-4217-bb67-5136568def8c.png)
 
 
 
@@ -65,6 +67,7 @@ java script
 
 
 
+![f3](https://user-images.githubusercontent.com/118163578/208604176-f49596fe-bfa1-483f-a9ce-34cc253fb091.png)
 
 
 
@@ -76,6 +79,7 @@ java script
 
 
 
+![f4](https://user-images.githubusercontent.com/118163578/208604391-05ff940c-e87b-4496-99f2-bd3ae8145122.png)
 
 
 
@@ -90,6 +94,7 @@ java script
 
 
 
+![f5](https://user-images.githubusercontent.com/118163578/208604787-9fd04e0e-983c-40ff-888c-f3a90da8e261.png)
 
 
 
@@ -107,6 +112,7 @@ java script
 
 
 
+![f6](https://user-images.githubusercontent.com/118163578/208605007-46c8bb5c-6004-4fa8-b94b-676d43fe058f.png)
 
 
 
