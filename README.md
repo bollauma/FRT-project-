@@ -12,7 +12,7 @@ Project demo Links:
 
 Github Reposistory: https://github.com/bollauma/FRT-project-
 
-Github project Link:
+Github project Link: https://bollauma.github.io/FRT-project-/
 
 Azure project Link:
 
