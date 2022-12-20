@@ -10,7 +10,7 @@ This project details the it helps to get skills improvement on taking photos. Th
 
 Project demo Links:
 
-Github Reposistory:
+Github Reposistory: https://github.com/bollauma/FRT-project-
 
 Github project Link:
 
